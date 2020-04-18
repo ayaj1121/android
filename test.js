@@ -9,3 +9,4 @@ for(var i in a){
 }
 
 console.log('a :', a);
+console.log('a :', a);
