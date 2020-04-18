@@ -11,3 +11,4 @@ for(var i in a){
 console.log('a :', a);
 console.log('a :', a);
 console.log('now :', now);
+console.log("aaa");
