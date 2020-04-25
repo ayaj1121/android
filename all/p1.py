@@ -9,7 +9,7 @@ try:
     z = 5/0
 except Exception as e:
     print(type(e).__name__)
-except ass:
+except Exception as ass:
     print("own")
 print()
 
@@ -23,3 +23,9 @@ class animal:
 
 a=animal("dog","omni")
 a.disp()
+
+
+for c in range(10):
+    print(c)
+
+
